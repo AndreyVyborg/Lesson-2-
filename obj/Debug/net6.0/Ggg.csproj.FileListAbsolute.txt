@@ -1,0 +1,15 @@
+C:\Users\79215\OneDrive\Рабочий стол\Ggg\obj\Debug\net6.0\Ggg.csproj.AssemblyReference.cache
+C:\Users\79215\OneDrive\Рабочий стол\Ggg\obj\Debug\net6.0\Ggg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79215\OneDrive\Рабочий стол\Ggg\obj\Debug\net6.0\Ggg.AssemblyInfoInputs.cache
+C:\Users\79215\OneDrive\Рабочий стол\Ggg\obj\Debug\net6.0\Ggg.AssemblyInfo.cs
+C:\Users\79215\OneDrive\Рабочий стол\Ggg\obj\Debug\net6.0\Ggg.csproj.CoreCompileInputs.cache
+C:\Users\79215\OneDrive\Рабочий стол\Ggg\bin\Debug\net6.0\Ggg.exe
+C:\Users\79215\OneDrive\Рабочий стол\Ggg\bin\Debug\net6.0\Ggg.deps.json
+C:\Users\79215\OneDrive\Рабочий стол\Ggg\bin\Debug\net6.0\Ggg.runtimeconfig.json
+C:\Users\79215\OneDrive\Рабочий стол\Ggg\bin\Debug\net6.0\Ggg.dll
+C:\Users\79215\OneDrive\Рабочий стол\Ggg\bin\Debug\net6.0\Ggg.pdb
+C:\Users\79215\OneDrive\Рабочий стол\Ggg\obj\Debug\net6.0\Ggg.dll
+C:\Users\79215\OneDrive\Рабочий стол\Ggg\obj\Debug\net6.0\refint\Ggg.dll
+C:\Users\79215\OneDrive\Рабочий стол\Ggg\obj\Debug\net6.0\Ggg.pdb
+C:\Users\79215\OneDrive\Рабочий стол\Ggg\obj\Debug\net6.0\Ggg.genruntimeconfig.cache
+C:\Users\79215\OneDrive\Рабочий стол\Ggg\obj\Debug\net6.0\ref\Ggg.dll
